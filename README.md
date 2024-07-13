@@ -4,7 +4,6 @@
 
 #### 🌱 I’m currently learning about that to be a wonderful developer！ 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zhanjinfeng.jeffrey.profile&left_color=green&right_color=red)
 <!--
 **zhanjinfeng/zhanjinfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
