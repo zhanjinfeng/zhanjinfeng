@@ -20,8 +20,6 @@
   </p>
 
   <p>
-    <b>Shenzhen · UTC+8</b>
-    <br />
     <i>Building software where the agent is the user.</i>
   </p>
 </div>
